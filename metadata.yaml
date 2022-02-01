@@ -13,7 +13,7 @@
 # limitations under the License.
 
 homepage: 'https://www.callpage.io/'
-documentation: 'https://github.com/mateuszjansowa/callpage-gtm-template/blob/main/README.md',
+documentation: 'https://github.com/mateuszjansowa/callpage-gtm-template/blob/main/README.md'
 versions:
   - sha: 005d8fe313956dbf5659f63182ca76b22068e928
     changeNotes: Initial release
